@@ -1,0 +1,13 @@
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.exe
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.deps.json
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.runtimeconfig.json
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.runtimeconfig.dev.json
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.dll
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.pdb
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.csprojAssemblyReference.cache
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.AssemblyInfoInputs.cache
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.AssemblyInfo.cs
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.dll
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.pdb
+C:\Users\bruno.oliveira\Desktop\projeto-teste\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.genruntimeconfig.cache
